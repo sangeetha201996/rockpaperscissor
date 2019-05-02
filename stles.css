@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: boder box;
+
+}
+header{
+    background: white
+
+}
+header > h1{
+   color: #24272e;
+   text-align: center;
+   font-family: asap, sans-serif;
+
+}
+.score-board{
+    
+
+}
